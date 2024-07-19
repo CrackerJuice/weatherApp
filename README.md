@@ -8,5 +8,5 @@ This app will display the weather of any city to you put in the search bar.
 
 ## Contact
 Email me at [alex.marie3976@gmail.com](alex.marie3976@gmail.com)  
-  See my other projects sat [CrackerJuice]{https://github.com/CrackerJuice}
+  See my other projects sat [CrackerJuice] (https://github.com/CrackerJuice/)
 
