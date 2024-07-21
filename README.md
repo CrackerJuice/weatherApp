@@ -5,7 +5,7 @@
 [Link to application](https://crackerjuice.github.io/weatherApp/)
 
 ## Description
-This app will display the weather of any city to you put in the search bar.
+This app will display the weather of any city or zip code that you put in the search bar.
 
 ## Contact
 Email me at [alex.marie3976@gmail.com](alex.marie3976@gmail.com)  
